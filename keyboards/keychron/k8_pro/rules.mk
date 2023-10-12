@@ -6,4 +6,4 @@ SRC += matrix.c
 
 include keyboards/keychron/bluetooth/bluetooth.mk
 
-
+DEBOUNCE_TYPE = asym_eager_defer_pk
